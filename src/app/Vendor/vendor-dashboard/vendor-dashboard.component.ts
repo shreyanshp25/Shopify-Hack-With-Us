@@ -102,5 +102,8 @@ export class VendorDashboardComponent implements OnInit {
       data : this.id,
     });
   }
+  getProducts(){
+    
+  }
   
 }
